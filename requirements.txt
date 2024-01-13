@@ -1,0 +1,6 @@
+pillow
+qrcode
+XlsxWriter
+opencv-python-headless
+pandas
+openpyxl
